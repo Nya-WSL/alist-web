@@ -1,0 +1,42 @@
+{
+  "common": {
+    "mount_path": "マウント・パス",
+    "driver": "ドライブ",
+    "order": "シリアル番号",
+    "order-tips": "並べ替えに使用",
+    "status": "状態",
+    "remark": "注記",
+    "cache_expiration": "キャッシュの有効期限",
+    "cache_expiration-tips": "このストアのキャッシュ有効期限 (分)",
+    "down_proxy_url": "プロキシ URL のダウンロード",
+    "web_proxy": "Web 代理",
+    "webdav_policy": "WebDAV ポリシー",
+    "webdav_policys": {
+      "302_redirect": "302 リダイレクト",
+      "use_proxy_url": "プロキシ URL を使用",
+      "native_proxy": "ネイティブプロキシ"
+    },
+    "order_by": "並べ替え",
+    "order_bys": {
+      "name": "名前",
+      "size": "大きさ",
+      "modified": "変更日"
+    },
+    "order_direction": "並べ替え方法",
+    "order_directions": {
+      "asc": "昇順",
+      "desc": "降順"
+    },
+    "extract_folder": "フォルダーの抽出",
+    "extract_folders": {
+      "front": "前面に抽出",
+      "back": "奥に抽出"
+    },
+    "enable_sign": "Enable sign"
+  },
+  "other": {
+    "start_load_success": "Start loading",
+    "load_all": "Reload All",
+    "filter_by_driver": "Filter by driver"
+  }
+}

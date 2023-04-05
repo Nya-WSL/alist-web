@@ -1,0 +1,587 @@
+{
+  "115 Cloud": {
+    "cookie": "Cookie",
+    "cookie-tips": "需要 QR 代碼令牌和 cookie 中的一個",
+    "page_size": "分頁大小",
+    "page_size-tips": "115 驅動程式的清單 API 的每頁大小",
+    "qrcode_token": "二維碼令牌",
+    "qrcode_token-tips": "需要 QR 代碼令牌和 cookie 中的一個",
+    "root_folder_id": "根資料夾ID"
+  },
+  "123Pan": {
+    "order_by": "排序",
+    "order_bys": {
+      "file_name": "檔案名稱",
+      "size": "大小",
+      "update_at": "修改時間"
+    },
+    "order_direction": "排序方式",
+    "order_directions": {
+      "asc": "升序",
+      "desc": "降序"
+    },
+    "password": "密碼",
+    "root_folder_id": "根資料夾ID",
+    "stream_upload": "流式上傳",
+    "username": "用戶名"
+  },
+  "139Yun": {
+    "account": "帳號",
+    "cloud_id": "Cloud id",
+    "cookie": "Cookie",
+    "root_folder_id": "根資料夾ID",
+    "type": "類型",
+    "types": {
+      "family": "家庭雲",
+      "personal": "個人雲"
+    }
+  },
+  "189Cloud": {
+    "password": "密碼",
+    "root_folder_id": "根資料夾ID",
+    "username": "使用者名稱"
+  },
+  "189CloudPC": {
+    "family_id": "Family id",
+    "no_use_ocr": "不使用OCR",
+    "order_by": "排序",
+    "order_bys": {
+      "filename": "檔案名稱",
+      "filesize": "檔案大小",
+      "lastOpTime": "修改時間"
+    },
+    "order_direction": "排序方式",
+    "order_directions": {
+      "asc": "升序",
+      "desc": "降序"
+    },
+    "password": "密碼",
+    "rapid_upload": "秒傳",
+    "root_folder_id": "根資料夾ID",
+    "type": "類型",
+    "types": {
+      "family": "家庭雲",
+      "personal": "個人雲"
+    },
+    "username": "用戶名",
+    "validate_code": "驗證碼"
+  },
+  "AList V2": {
+    "access_token": "訪問權杖",
+    "password": "密碼",
+    "root_folder_path": "根資料夾路徑",
+    "url": "連結"
+  },
+  "AList V3": {
+    "access_token": "存取權杖",
+    "password": "密碼",
+    "root_folder_path": "根資料夾路徑",
+    "url": "連結"
+  },
+  "Alias": {
+    "paths": "路徑"
+  },
+  "Aliyundrive": {
+    "internal_upload": "內部上傳",
+    "order_by": "排序",
+    "order_bys": {
+      "created_at": "建立時間",
+      "name": "名稱",
+      "size": "大小",
+      "updated_at": "修改時間"
+    },
+    "order_direction": "排序方式",
+    "order_directions": {
+      "ASC": "升序",
+      "DESC": "降序"
+    },
+    "rapid_upload": "秒傳",
+    "refresh_token": "刷新令牌",
+    "root_folder_id": "根資料夾ID"
+  },
+  "AliyundriveOpen": {
+    "client_id": "客户端ID",
+    "client_id-tips": "如果你沒有，請留空",
+    "client_secret": "客户端密钥",
+    "client_secret-tips": "如果你沒有，請留空",
+    "internal_upload": "內部上傳",
+    "internal_upload-tips": "If you are using Aliyun ECS is located in Beijing, you can turn it on to boost the upload speed",
+    "oauth_token_url": "Oauth令牌連結",
+    "order_by": "排序",
+    "order_bys": {
+      "created_at": "建立時間",
+      "name": "名稱",
+      "size": "大小",
+      "updated_at": "修改時間"
+    },
+    "order_direction": "排序方式",
+    "order_directions": {
+      "ASC": "升序",
+      "DESC": "降序"
+    },
+    "refresh_token": "刷新令牌",
+    "remove_way": "拿掉方式",
+    "remove_ways": {
+      "delete": "刪除",
+      "trash": "回收桶"
+    },
+    "root_folder_id": "根資料夾ID"
+  },
+  "AliyundriveShare": {
+    "order_by": "排序",
+    "order_bys": {
+      "created_at": "建立時間",
+      "name": "名稱",
+      "size": "大小",
+      "updated_at": "修改時間"
+    },
+    "order_direction": "排序方式",
+    "order_directions": {
+      "ASC": "升序",
+      "DESC": "降序"
+    },
+    "refresh_token": "刷新令牌",
+    "root_folder_id": "根資料夾ID",
+    "share_id": "分享ID",
+    "share_pwd": "分享密碼"
+  },
+  "BaiduNetdisk": {
+    "client_id": "客户端ID",
+    "client_secret": "用戶端金鑰",
+    "download_api": "下載 API",
+    "download_apis": {
+      "crack": "非官方",
+      "official": "官方"
+    },
+    "order_by": "排序",
+    "order_bys": {
+      "name": "名稱",
+      "size": "大小",
+      "time": "時間"
+    },
+    "order_direction": "排序方式",
+    "order_directions": {
+      "asc": "升序",
+      "desc": "降序"
+    },
+    "refresh_token": "刷新令牌",
+    "root_folder_path": "根資料夾路徑"
+  },
+  "BaiduPhoto": {
+    "album_id": "相簿ID",
+    "client_id": "客户端ID",
+    "client_secret": "客户端密钥",
+    "refresh_token": "刷新令牌",
+    "show_type": "展示類型",
+    "show_types": {
+      "root": "根",
+      "root_only_album": "僅根目錄下相簿",
+      "root_only_file": "僅根目錄下檔案"
+    }
+  },
+  "BaiduShare": {
+    "BDUSS": "BDUSS",
+    "pwd": "百度網盤分享密碼",
+    "root_folder_path": "根資料夾路徑",
+    "surl": "百度網盤分享連結"
+  },
+  "Cloudreve": {
+    "address": "地址",
+    "password": "密碼",
+    "root_folder_path": "根資料夾路徑",
+    "username": "使用者名稱"
+  },
+  "FTP": {
+    "address": "地址",
+    "password": "密碼",
+    "root_folder_path": "根資料夾路徑",
+    "username": "用戶名"
+  },
+  "GoogleDrive": {
+    "chunk_size": "分片大小",
+    "chunk_size-tips": "上傳分塊大小 (單位： MB)",
+    "client_id": "客户端ID",
+    "client_secret": "客户端密钥",
+    "order_by": "排序",
+    "order_by-tips": "例如:folder,name,modifiedTime",
+    "order_direction": "排序方式",
+    "order_directions": {
+      "asc": "升序",
+      "desc": "降序"
+    },
+    "refresh_token": "刷新令牌",
+    "root_folder_id": "根資料夾ID"
+  },
+  "GooglePhoto": {
+    "client_id": "客户端ID",
+    "client_secret": "客户端密钥",
+    "refresh_token": "刷新令牌",
+    "root_folder_id": "根資料夾ID",
+    "show_archive": "顯示歸檔"
+  },
+  "Lanzou": {
+    "baseUrl": "基本URL",
+    "baseUrl-tips": "進行檔操作的基礎 URL",
+    "cookie": "Cookie",
+    "cookie-tips": "有效期約為15天，若使用分享連結則忽略",
+    "repair_file_info": "修復文件資訊",
+    "repair_file_info-tips": "要使用 WebDAV，您需要啟用它",
+    "root_folder_id": "根資料夾ID",
+    "shareUrl": "分享链接",
+    "shareUrl-tips": "用於獲取分享頁面",
+    "share_password": "分享密碼",
+    "type": "類型",
+    "types": {
+      "cookie": "Cookie",
+      "url": "链接"
+    }
+  },
+  "Local": {
+    "mkdir_perm": "創建資料夾許可權",
+    "root_folder_path": "根資料夾路徑",
+    "show_hidden": "顯示隱藏",
+    "show_hidden-tips": "顯示隱藏目錄以及檔",
+    "thumbnail": "縮略圖",
+    "thumbnail-tips": "啟用縮略圖"
+  },
+  "MediaTrack": {
+    "access_token": "訪問權杖",
+    "order_by": "排序",
+    "order_bys": {
+      "size": "大小",
+      "title": "名稱",
+      "updated_at": "修改時間"
+    },
+    "order_desc": "降序排列",
+    "project_id": "項目ID",
+    "root_folder_id": "根資料夾ID"
+  },
+  "Mega_nz": {
+    "email": "郵箱",
+    "password": "密碼"
+  },
+  "Onedrive": {
+    "chunk_size": "分片大小",
+    "client_id": "客户端ID",
+    "client_secret": "客户端密钥",
+    "is_sharepoint": "是否Sharepoint",
+    "redirect_uri": "重定向Uri",
+    "refresh_token": "刷新令牌",
+    "region": "地區",
+    "regions": {
+      "cn": "世紀互聯",
+      "de": "德國版",
+      "global": "全域設定",
+      "us": "美國版"
+    },
+    "root_folder_path": "根資料夾路徑",
+    "site_id": "網站ID"
+  },
+  "OnedriveAPP": {
+    "chunk_size": "分片大小",
+    "client_id": "客户端ID",
+    "client_secret": "客户端密钥",
+    "email": "郵箱",
+    "region": "地區",
+    "regions": {
+      "cn": "世紀互聯",
+      "de": "德國版",
+      "global": "全域設定",
+      "us": "美國版"
+    },
+    "root_folder_path": "根資料夾路徑",
+    "tenant_id": "Tenant id"
+  },
+  "PikPak": {
+    "password": "密碼",
+    "root_folder_id": "根資料夾ID",
+    "username": "用戶名"
+  },
+  "PikPakShare": {
+    "password": "密碼",
+    "root_folder_id": "根資料夾ID",
+    "share_id": "分享ID",
+    "share_pwd": "分享密碼",
+    "username": "用戶名"
+  },
+  "Quark": {
+    "cookie": "Cookie",
+    "order_by": "排序",
+    "order_bys": {
+      "file_name": "檔案名稱",
+      "file_type": "檔案類型",
+      "none": "無",
+      "updated_at": "修改時間"
+    },
+    "order_direction": "排序方式",
+    "order_directions": {
+      "asc": "升序",
+      "desc": "降序"
+    },
+    "root_folder_id": "根資料夾ID"
+  },
+  "S3": {
+    "access_key_id": "訪問密钥 Id",
+    "bucket": "存儲桶",
+    "custom_host": "自定義HOST",
+    "endpoint": "Endpoint",
+    "force_path_style": "強制路徑樣式",
+    "list_object_version": "列出對象版本",
+    "list_object_versions": {
+      "v1": "V1",
+      "v2": "V2"
+    },
+    "placeholder": "占位檔名",
+    "region": "地區",
+    "root_folder_path": "根資料夾路徑",
+    "secret_access_key": "安全訪問密钥",
+    "sign_url_expire": "簽名链接有效期"
+  },
+  "SFTP": {
+    "address": "地址",
+    "password": "密碼",
+    "private_key": "私密金鑰",
+    "root_folder_path": "根資料夾路徑",
+    "username": "用戶名"
+  },
+  "SMB": {
+    "address": "地址",
+    "password": "密碼",
+    "root_folder_path": "根資料夾路徑",
+    "share_name": "分享名稱",
+    "username": "用戶名"
+  },
+  "Seafile": {
+    "address": "地址",
+    "password": "密碼",
+    "repoId": "RepoId",
+    "root_folder_path": "根資料夾路徑",
+    "username": "用戶名"
+  },
+  "Teambition": {
+    "cookie": "Cookie",
+    "order_by": "排序",
+    "order_bys": {
+      "created": "創建時間",
+      "fileName": "檔名",
+      "fileSize": "文件大小",
+      "updated": "修改時間"
+    },
+    "order_direction": "排序方式",
+    "order_directions": {
+      "Asc": "升序",
+      "Desc": "降序"
+    },
+    "project_id": "項目ID",
+    "region": "地區",
+    "regions": {
+      "china": "中國",
+      "international": "國際版"
+    },
+    "root_folder_id": "根資料夾ID"
+  },
+  "Terabox": {
+    "cookie": "Cookie",
+    "download_api": "下載 API",
+    "download_apis": {
+      "crack": "非官方",
+      "official": "官方"
+    },
+    "order_by": "排序",
+    "order_bys": {
+      "name": "名稱",
+      "size": "大小",
+      "time": "時間"
+    },
+    "order_direction": "排序方式",
+    "order_directions": {
+      "asc": "升序",
+      "desc": "降序"
+    },
+    "root_folder_path": "根資料夾路徑"
+  },
+  "Thunder": {
+    "captcha_token": "驗證碼",
+    "password": "密碼",
+    "root_folder_id": "根資料夾ID",
+    "username": "用戶名"
+  },
+  "ThunderExpert": {
+    "algorithms": "算法",
+    "algorithms-tips": "簽名類型是用戶名,此為必填項",
+    "captcha_sign": "驗證碼簽名",
+    "captcha_sign-tips": "簽名類型是驗證碼簽名,此為必填項",
+    "captcha_token": "驗證碼",
+    "client_id": "客户端ID",
+    "client_secret": "客户端密钥",
+    "client_version": "客户端版本",
+    "device_id": "設備id",
+    "download_user_agent": "下載用戶代理",
+    "login_type": "登入類型",
+    "login_types": {
+      "refresh_token": "刷新令牌",
+      "user": "用戶名"
+    },
+    "package_name": "包名",
+    "password": "密碼",
+    "password-tips": "登入類型是用戶名,此為必填項",
+    "refresh_token": "刷新令牌",
+    "refresh_token-tips": "登入類型是刷新令牌,此為必填項",
+    "root_folder_id": "根資料夾ID",
+    "sign_type": "簽名類型",
+    "sign_types": {
+      "algorithms": "算法",
+      "captcha_sign": "驗證碼簽名"
+    },
+    "timestamp": "時間戳",
+    "timestamp-tips": "簽名類型是驗證碼簽名,此為必填項",
+    "use_video_url": "使用視頻url",
+    "user_agent": "用戶代理",
+    "username": "用戶名",
+    "username-tips": "登入類型是用戶名,此為必填項"
+  },
+  "Trainbit": {
+    "AUSHELLPORTAL": "AUSHELLPORTAL",
+    "apikey": "Apikey",
+    "root_folder_id": "根資料夾ID"
+  },
+  "USS": {
+    "bucket": "存儲桶",
+    "endpoint": "Endpoint",
+    "operator_name": "操作員名稱",
+    "operator_password": "操作員密碼",
+    "root_folder_path": "根資料夾路徑",
+    "sign_url_expire": "簽名链接有效期"
+  },
+  "UrlTree": {
+    "head_size": "Head size",
+    "head_size-tips": "Use head method to get file size, but it may be failed.",
+    "url_structure": "Url structure",
+    "url_structure-tips": "structure:FolderName:\n  [FileName:][FileSize:][Modified:]Url"
+  },
+  "Virtual": {
+    "max_file_size": "最大文件大小",
+    "min_file_size": "最小文件大小",
+    "num_file": "檔案數量",
+    "num_folder": "資料夾數量",
+    "root_folder_path": "根資料夾路徑"
+  },
+  "WebDav": {
+    "address": "地址",
+    "password": "密碼",
+    "root_folder_path": "根資料夾路徑",
+    "username": "用戶名",
+    "vendor": "供應商",
+    "vendors": {
+      "other": "其他",
+      "sharepoint": "Sharepoint"
+    }
+  },
+  "YandexDisk": {
+    "client_id": "客户端ID",
+    "client_secret": "客户端密钥",
+    "order_by": "排序",
+    "order_bys": {
+      "created": "創建時間",
+      "modified": "修改時間",
+      "name": "名稱",
+      "path": "路徑",
+      "size": "大小"
+    },
+    "order_direction": "排序方式",
+    "order_directions": {
+      "asc": "升序",
+      "desc": "降序"
+    },
+    "refresh_token": "刷新令牌",
+    "root_folder_path": "根資料夾路徑"
+  },
+  "config": {
+    "115 Cloud": {},
+    "123Pan": {},
+    "139Yun": {},
+    "189Cloud": {},
+    "189CloudPC": {},
+    "AList V2": {},
+    "AList V3": {},
+    "Alias": {},
+    "Aliyundrive": {
+      "alert": "在這個驅動中可能有一個死迴圈的錯誤。\n已廢棄，不再維護，並將在未來的版本中刪除。\n我們建議使用官方驅動的 阿裡雲盤Open。"
+    },
+    "AliyundriveOpen": {},
+    "AliyundriveShare": {},
+    "BaiduNetdisk": {},
+    "BaiduPhoto": {},
+    "BaiduShare": {},
+    "Cloudreve": {},
+    "FTP": {},
+    "GoogleDrive": {},
+    "GooglePhoto": {},
+    "Lanzou": {},
+    "Local": {},
+    "MediaTrack": {},
+    "Mega_nz": {},
+    "Onedrive": {},
+    "OnedriveAPP": {},
+    "PikPak": {},
+    "PikPakShare": {},
+    "Quark": {},
+    "S3": {},
+    "SFTP": {},
+    "SMB": {},
+    "Seafile": {},
+    "Teambition": {},
+    "Terabox": {},
+    "Thunder": {},
+    "ThunderExpert": {},
+    "Trainbit": {},
+    "USS": {},
+    "UrlTree": {},
+    "Virtual": {},
+    "WebDav": {},
+    "YandexDisk": {}
+  },
+  "drivers": {
+    "115 Cloud": "115 網盤",
+    "123Pan": "123雲盤",
+    "139Yun": "中國移動雲盤",
+    "189Cloud": "天翼雲盤",
+    "189CloudPC": "天翼雲盤用戶端",
+    "AList V2": "AList V2",
+    "AList V3": "AList V3",
+    "Alias": "別名",
+    "Aliyundrive": "阿裡雲盤",
+    "AliyundriveOpen": "阿裡雲盤Open",
+    "AliyundriveShare": "阿裡雲盤分享",
+    "BaiduNetdisk": "百度網盤",
+    "BaiduPhoto": "一刻相册",
+    "BaiduShare": "百度分享",
+    "Cloudreve": "Cloudreve",
+    "FTP": "FTP",
+    "GoogleDrive": "Google雲盤",
+    "GooglePhoto": "Google相册",
+    "Lanzou": "藍奏雲",
+    "Local": "本機存儲",
+    "MediaTrack": "分秒幀",
+    "Mega_nz": "Mega 網盤",
+    "Onedrive": "Onedrive",
+    "OnedriveAPP": "OnedriveAPP",
+    "PikPak": "PikPak",
+    "PikPakShare": "PikPak分享",
+    "Quark": "誇克",
+    "S3": "對象存儲",
+    "SFTP": "SFTP",
+    "SMB": "SMB",
+    "Seafile": "Seafile",
+    "Teambition": "Teambition網盤",
+    "Terabox": "Terabox",
+    "Thunder": "迅雷",
+    "ThunderExpert": "迅雷專家版",
+    "Trainbit": "Trainbit",
+    "USS": "又拍雲存儲",
+    "UrlTree": "UrlTree",
+    "Virtual": "虛擬存儲",
+    "WebDav": "WebDav",
+    "YandexDisk": "Yandex網盤"
+  }
+}

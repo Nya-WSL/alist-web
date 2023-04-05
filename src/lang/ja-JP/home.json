@@ -1,0 +1,102 @@
+{
+  "obj": {
+    "name": "名前",
+    "size": "サイズ",
+    "modified": "変更日時"
+  },
+  "preview": {
+    "download": "ダウンロード",
+    "failed_load_img": "画像の読み込みに失敗しました",
+    "open_with": "開く方法...",
+    "install": "取り付ける",
+    "installing": "インストール中",
+    "tr-install": "TrollStore",
+    "tr-installing": "TrollStoreインストール中"
+  },
+  "layouts": {
+    "list": "リスト",
+    "grid": "グリッド",
+    "image": "画像のみ"
+  },
+  "no_images": "現在のフォルダーに画像がありません",
+  "load_more": "さらに読み込む",
+  "no_more": "これ以上ファイルがありません",
+  "input_password": "パスワードを入力してください",
+  "toolbar": {
+    "more": "もっと見る",
+    "refresh": "更新",
+    "toggle_theme": "テーマを切り替え",
+    "switch_lang": "言語の切り替え",
+    "toggle_checkbox": "チェックボックスを表示",
+    "rename": "名前の変更",
+    "input_new_name": "新しい名前を入力してください",
+    "only_one-tips": "名前変更オブジェクトは1つだけ選択してください",
+    "move": "移動",
+    "copy": "コピー",
+    "choose_dst_folder": "保存先フォルダーを選択",
+    "delete": "削除",
+    "delete-tips": "選択したオブジェクトを削除します。よろしいですか?",
+    "copy_link": "URLをコピー",
+    "preview_page": "プレビューページ",
+    "down_link": "URLをダウンロード",
+    "encode_down_link": "ダウンロードURLをエンコードする",
+    "mkdir": "新規フォルダー",
+    "input_dir_name": "フォルダー名を入力してください",
+    "new_file": "新規ファイル",
+    "input_filename": "ファイル名を入力してください",
+    "cancel_select": "選択解除",
+    "offline_download": "オフラインダウンロード",
+    "offline_download-tips": "複数のURLを指定する場合は、改行してください",
+    "download": "ダウンロード",
+    "batch_download": "一括ダウンロード",
+    "package_download": "まとめてダウンロード",
+    "package_download_disabled": " まとめてダウンロードは無効です",
+    "send_aria2": "Aria2に送る",
+    "aria2_not_set": "aria2 rpc url を設定してください",
+    "send_aria2_success": "aria2に正常に送信しました",
+    "pre_package_download-tips": "Using streamsaver in the browser instead of the server for package download requires the corresponding storage to support cors, and the unsupported storage will fail.",
+    "package_download-tips": "ダウンロード中...ページを閉じないでください",
+    "upload": "アップロード",
+    "local_settings": "ローカル設定"
+  },
+  "upload": {
+    "add_as_task": "タスク追加",
+    "upload-tips": "ここにファイルをドロップして、またはアイコンをクリックしてください。",
+    "release": "ドロップしてアップロード開始",
+    "no_files_drag": "ドラッグされたファイルはありません。",
+    "upload_files": "ファイルを選択",
+    "upload_folder": "フォルダーを選択",
+    "pending": "保留中",
+    "uploading": "アップロード中",
+    "backending": "バックグラウンドでアップロード中",
+    "success": "成功",
+    "error": "エラー",
+    "back": "戻る",
+    "clear_done": "すべてクリア"
+  },
+  "local_settings": {
+    "aria2_rpc_url": "Aria2 RPC URL",
+    "aria2_rpc_secret": "Aria2 RPC キー",
+    "aria2_dir": "Aria2 ダウンロードディレクトリ"
+  },
+  "package_download": {
+    "current_status": "ステータス",
+    "initializing": "初期化中",
+    "fetching_struct": "フォルダー構造を取得中",
+    "fetching_struct_failed": "フォルダー構造の取得に失敗しました",
+    "downloading": "ダウンロード中...ページを閉じないでください",
+    "failed": " まとめてダウンロード失敗しました",
+    "success": "ダウンロード完了しました"
+  },
+  "footer": {
+    "powered_by": "Powered by AList",
+    "manage": "管理"
+  },
+  "search": {
+    "search": "検索",
+    "no_result": "検索条件に一致する項目はありません。"
+  },
+  "fetching_settings_failed": "設定情報の取得に失敗しました: ",
+  "get_current_user_failed": "ユーザー情報の取得に失敗しました: ",
+  "Loading storage, please wait": "ストレージを読み込んでいます。お待ちください..."
+}

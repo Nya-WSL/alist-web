@@ -1,0 +1,11 @@
+{
+  "aria2": "Aria2",
+  "aria2_version": "Aria2 バージョン:",
+  "set_aria2": "Aria2を設定",
+  "copy_token": "Tokenをコピー",
+  "reset_token": "Tokenをリセット",
+  "reset_token_success": "Tokenをリセット成功しました",
+  "unknown_type": "不明なタイプです",
+  "set_qbit": "qBittorrentを設定",
+  "qbittorrent": "qBittorrent"
+}

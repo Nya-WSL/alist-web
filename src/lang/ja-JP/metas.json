@@ -1,0 +1,10 @@
+{
+  "path": "パス",
+  "password": "パスワード",
+  "write": "書く",
+  "hide": "隠れ",
+  "readme": "説明",
+  "apply_sub": "サブフォルダに適用",
+  "hide_help": "複数の正規表現を指定する場合は、改行してください",
+  "readme_help": "MarkdownコンテンツまたはMarkdownリンクをサポートされる"
+}

@@ -1,0 +1,14 @@
+{
+  "backup": "備份",
+  "restore": "恢复",
+  "start_backup": "開始備份",
+  "finish_backup": "備份完成",
+  "success_backup_item": "[ {{item}} ] 備份成功",
+  "failed_backup_item": "[ {{item}} ] 備份失敗",
+  "no_file": "未選擇檔案",
+  "start_restore": "開始恢復",
+  "finish_restore": "恢復完成",
+  "success_restore_item": "[ {{item}} ] 恢復成功",
+  "failed_restore_item": "[ {{item}} ] 恢復失敗",
+  "override": "Override"
+}
