@@ -13,6 +13,6 @@
   "succeeded": "成功",
   "canceled": "キャンセル",
   "errored": "エラー",
-  "clear_succeeded": "クリア完了しました",
+  "clear_succeeded": "完了済みの任務をクリア",
   "retry": "再試行"
 }

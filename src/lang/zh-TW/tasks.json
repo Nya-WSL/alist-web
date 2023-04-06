@@ -13,6 +13,6 @@
   "succeeded": "已完成",
   "canceled": "已取消",
   "errored": "錯誤",
-  "clear_succeeded": "清除成功",
+  "clear_succeeded": "清除已完成任務",
   "retry": "重試"
 }
